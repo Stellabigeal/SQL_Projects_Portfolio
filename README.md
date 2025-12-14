@@ -129,10 +129,11 @@ Normalization, foreign keys, schema design, safe updates
 
 ---
 
-##  How to Use This Repository
+## How to Use This Repository
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Stellabigeal/sql-projects-portfolio.git
+You can explore this repository directly on GitHub.
 
+1. Open any project folder
+2. View or download the SQL files
+3. Run the scripts in your preferred SQL environment
 
